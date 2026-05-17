@@ -7,8 +7,6 @@ Turn images into beautiful LED matrix pixel art directly in the browser.
 
 If you try it out, feedback and feature wishes are very welcome 💡
 
----
-
 ## Features
 
 - Convert any image into LED matrix-style pixel art
@@ -18,13 +16,11 @@ If you try it out, feedback and feature wishes are very welcome 💡
 - Fast, lightweight browser experience
 - Export-ready output for hardware / LED projects
 
----
 
 ## Demo
 
 https://github.com/user-attachments/assets/0047441e-cc9b-47c2-a7e9-4b4730eb6766
 
----
 
 ## Feedback
 
